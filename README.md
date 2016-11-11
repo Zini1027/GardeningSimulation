@@ -1,2 +1,3 @@
 # GardeningSimulation
-See Gardening.pdf.
+Requirements.pdf - Project Requirements.
+Gardening.pdf - User Manual.
